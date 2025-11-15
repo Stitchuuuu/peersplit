@@ -8,7 +8,7 @@ import "gun/lib/webrtc";
 
 const newGun = () =>
   Gun({
-    peers: ["https://gun-manhattan.herokuapp.com/gun"],
+    peers: ["https://gun.suuuper.app/gun"],
     localStorage: false,
   });
 
