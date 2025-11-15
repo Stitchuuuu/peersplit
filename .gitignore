@@ -3,7 +3,7 @@
 .nuxt
 .nitro
 .cache
-.output/nitro.json
+.output
 dist
 
 # Node dependencies

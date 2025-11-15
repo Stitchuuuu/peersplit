@@ -1,0 +1,1 @@
+{"id":"89ca7f8a-4470-4f6c-bd11-c47c80b576d2","timestamp":1763197565200,"matcher":{"static":{"/":{"prerender":true}},"wildcard":{},"dynamic":{"":{"static":{"/":{"prerender":true}},"wildcard":{},"dynamic":{}}}},"prerendered":["/app/activity","/app/groups","/app/settings"]}
